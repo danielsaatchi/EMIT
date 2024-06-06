@@ -30,13 +30,13 @@ Encoded Mechanical Intelligence Tag (EMIT)
     ```
 3. Run the scripts or open the Jupyter notebook to explore the project with images and reproduction.
 
-## Link to Reference Papers
+### Link to Reference Papers
 - [Arxiv Paper: EMIT Mechanical Intelligence Design (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640)
 - [KAIST PhD Thesis: Daniel Saatchi (Advisor: IL-Kwon Oh)](https://drive.google.com/file/d/1n1wZJd2kUU5FUxRGdAKw6yvlHCGDI1bT/view?usp=drive_link)
 
-##  Licensed by KAIST SRIM LAB 
+###  Licensed by KAIST SRIM LAB 
 - [Soft Robotics and Intelligent Materials Lab](https://srim.kaist.ac.kr/)
-- 
-##  Acknowledgements
+  
+###  Acknowledgements
 This work was partially supported by the Creative Research Initiative Program (2015R1A3A2028975), funded by the National Research Foundation of Korea (NRF). This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (RS-2023-00302525).
 
