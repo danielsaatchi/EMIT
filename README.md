@@ -1,5 +1,6 @@
 # EMIT Mechanical Intelligence Design 
-### Open Soruce Technology Blueprint
+This is a Open Soruce Technology Blueprint
+
 ## Machine Learning on TPMS dataset
 
 This repository contains an TPMS dataset and machine learning models for rapid design of EMIT based on contribution from KAIST Soft Robotics and Intelligent Materials (SRIM) Labratory with arXiv paper [EMIT Mechanical Intelligence (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640).
