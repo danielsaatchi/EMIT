@@ -8,7 +8,7 @@ This repository contains an Excel dataset and a machine learning project inspire
 - `preprocess.py`: Script for data preprocessing.
 - `train_model.py`: Script for training the machine learning model.
 - `evaluate_model.py`: Script for evaluating the trained model.
-- `notebook.ipynb`: Jupyter notebook documenting the entire workflow.
+- `notebook.ipynb`: Jupyter notebook documenting the entire workflow in one single file like instruction. 
 
 ## Instructions
 1. Clone the repository:
@@ -16,7 +16,7 @@ This repository contains an Excel dataset and a machine learning project inspire
     git clone https://github.com/danielsaatchi/emit.git
     cd your-repository
     ```
-2. Set up a virtual environment and install dependencies:
+2. Set up a miniconda version environment and install dependencies:
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
