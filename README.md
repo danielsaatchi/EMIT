@@ -35,5 +35,5 @@ Encoded Mechanical Intelligence Tag (EMIT)
 - [KAIST PhD Thesis: Daniel Saatchi (Advisor: IL-Kwon Oh)](https://drive.google.com/file/d/1n1wZJd2kUU5FUxRGdAKw6yvlHCGDI1bT/view?usp=drive_link)
 
 ##  Licensed by KAIST SRIM LAB 
-- [Soft Robotics and Intelligent Materials Lab)](https://srim.kaist.ac.kr/)
+- [Soft Robotics and Intelligent Materials Lab](https://srim.kaist.ac.kr/)
 
