@@ -1,4 +1,4 @@
-MIT License
+The MIT License
 
 Copyright (c) 2024, Daniel Saatchi and IL-KWON OH at Korea Advance Institute of Science and Technology (KAIST)
 
@@ -12,18 +12,18 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in
 all copies or substantial portions of the Software.
 
-Patent Use: The permission granted above includes the right to use any patents
+Patent Use, The permission granted above includes the right to use any patents
 owned by the copyright holder or contributors to the Software, including patents
 related to metamaterial data ownership, machine learning algorithms, and 3D printing
 mechanical intelligence design, provided that such use is consistent with the terms
 of this license.
 
-Ownership: The copyright holder retains ownership of all copyrights and any
+Ownership, The copyright holder retains ownership of all copyrights and any
 patents related to the Software. Any patents owned by contributors related to
 metamaterial data ownership, machine learning algorithms, and 3D printing mechanical
 intelligence design are acknowledged as owned by the respective contributors.
 
-Commercial Agreement: Any commercial use of the Software, including but not
+Commercial Agreement. Any commercial use of the Software, including but not
 limited to the development of commercial products or services, must be subject
 to a separate commercial agreement negotiated with the copyright holder or
 contributors, which may include licensing fees, royalties, or other terms as
