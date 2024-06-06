@@ -6,7 +6,7 @@ This repository contains an Excel dataset and a machine learning project inspire
 EMIT needs reliability in 3D printing manufacturing and the opensource project is for reproduction, and reliability in engineering for its impacful applicaiton to find missing items like crashed airplanes in ocean, sunked sip, sunked containers or missing divers. We believe EMIT should be opensource technology to be improve collaboration between AI scienttist amd intelligent mechanical metaterial scientists work on EMIT mechanical intelligence.
 
 ## What is EMIT?
-Encoded Mechanical Intelligent Tag
+Encoded Mechanical Intelligent Tag (EMIT)
 
 
 ## Files
