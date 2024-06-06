@@ -16,10 +16,8 @@ This repository contains an Excel dataset and a machine learning project inspire
     git clone https://github.com/danielsaatchi/emit.git
     cd your-repository
     ```
-2. Set up a miniconda version environment and install dependencies:
+2. Set up a miniconda=4.8.3 or later version environment and install dependencies:
     ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     pip install -r requirements.txt
     ```
 3. Run the scripts or open the Jupyter notebook to explore the project.
