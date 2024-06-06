@@ -37,10 +37,13 @@ Encoded Mechanical Intelligence Tag (EMIT)
    ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/86257a6f-32c9-4bf1-9873-1388557e9517)
 
     3.2 Importing TPMS dataset
-   ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/7413aad7-c85f-4820-b10f-4da20421e197)
+   ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/c75b88a8-a919-44c0-bbaa-ab10bb2b4a63)
 
-    3.2 Acoustic feature extraction for sound wave and acoustic metamaterial data-driven design with machine learning
+    3.3 Acoustic feature extraction for sound wave and acoustic metamaterial data-driven design with machine learning
    ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/5b202775-70e2-4c6b-9c91-810e13feff8b)
+   
+    3.4 Data Analysis: Ploting VF Variations to observe acoustic bandgaps (ABG)
+    ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/d66c8a7d-a9a6-46e6-b932-14325d7c92f3)
 
 
 
