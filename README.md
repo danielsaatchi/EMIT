@@ -25,5 +25,5 @@ EMIT needs reliability in 3D printing manufacturing and the opensource project i
 3. Run the scripts or open the Jupyter notebook to explore the project with images and reproduction.
 
 ## Link to Reference Papers
-- [Arxiv: EMIT Mechanical Intelligence Design (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640)
-- [KAIST: Daniel Saatchi PhD Thesis (Advisor: IL-Kwon Oh)](https://drive.google.com/file/d/1n1wZJd2kUU5FUxRGdAKw6yvlHCGDI1bT/view?usp=drive_link)
+- [Arxiv Paper: EMIT Mechanical Intelligence Design (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640)
+- [KAIST PhD Thesis: Daniel Saatchi (Advisor: IL-Kwon Oh)](https://drive.google.com/file/d/1n1wZJd2kUU5FUxRGdAKw6yvlHCGDI1bT/view?usp=drive_link)
