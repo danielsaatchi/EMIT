@@ -26,4 +26,4 @@ This repository contains an Excel dataset and a machine learning project inspire
 
 ## Link to Reference Papers
 - [Arxiv: EMIT Mechanical Intelligence Design (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640)
-- [KAIST: Daniel Saatchi PhD Thesis (Advisor: IL-Kwon Oh)](https://arxiv.org/abs/1506.02640)
+- [KAIST: Daniel Saatchi PhD Thesis (Advisor: IL-Kwon Oh)](https://drive.google.com/file/d/1n1wZJd2kUU5FUxRGdAKw6yvlHCGDI1bT/view?usp=drive_link)
