@@ -37,12 +37,11 @@ Encoded Mechanical Intelligence Tag (EMIT)
 
 ### Citations for Scientists
 @article{oh2024example,
-  title={An Example Paper Title},
-  author={Oh, Professor and Other, Co-Author},
+  title={EMIT Mecahnical Intelligen Design},
+  author={Daniel Saatchi, IL-KWON Oh},
   journal={arXiv preprint arXiv:1234.56789},
   year={2024}
 }
-
 
 ###  Licensed by KAIST and CRI
 - [Soft Robotics and Intelligent Materials Lab](https://srim.kaist.ac.kr/)
