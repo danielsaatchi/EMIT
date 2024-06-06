@@ -1,5 +1,5 @@
 # EMIT Mechanical Intelligence Design (Open Source)
-# Machine Learning on TPMS dataset
+## Machine Learning on TPMS dataset
 
 This repository contains an Excel dataset and a machine learning project inspired by the arXiv paper [Title of the Paper](https://arxiv.org/abs/1506.02640).
 
