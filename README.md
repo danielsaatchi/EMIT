@@ -2,6 +2,8 @@
 ## Machine Learning on TPMS dataset
 
 This repository contains an Excel dataset and a machine learning project inspired by the arXiv paper [Title of the Paper](https://arxiv.org/abs/1506.02640).
+## Scope:
+EMIT needs reliability in 3D printing manufacturing and the opensource project is for reproduction, and reliability in engineering for its impacful applicaiton to find missing items like crashed airplanes in ocean, sunked sip, sunked containers or missing divers. 
 
 ## Files
 - `TPMS_BNF_data.csv`: The dataset used for training and evaluation.
