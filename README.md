@@ -20,7 +20,7 @@ This repository contains an Excel dataset and a machine learning project inspire
     ```bash
     pip install -r requirements.txt
     ```
-3. Run the scripts or open the Jupyter notebook to explore the project.
+3. Run the scripts or open the Jupyter notebook to explore the project with images and reproduction.
 
 ## Link to Reference Papers
 - [Arxiv: EMIT Mechanical Intelligence Design (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640)
