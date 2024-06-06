@@ -37,7 +37,7 @@ Encoded Mechanical Intelligence Tag (EMIT)
 ###  Licensed by KAIST and CRI
 - [Soft Robotics and Intelligent Materials Lab](https://srim.kaist.ac.kr/)
 - [National Creative Research Initiative Center for Functionally Anatonistic Nano-Engineering](https://srim.kaist.ac.kr/)
-- 
+
 ###  Acknowledgements
 This work was partially supported by the Creative Research Initiative Program (2015R1A3A2028975), funded by the National Research Foundation of Korea (NRF). This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (RS-2023-00302525).
 
