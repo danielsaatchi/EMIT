@@ -6,7 +6,7 @@ This is an Open Source Technology Blueprint
 This repository contains an TPMS dataset and machine learning models for rapid design of EMIT based on contribution from KAIST Soft Robotics and Intelligent Materials (SRIM) Labratory with arXiv paper [EMIT Mechanical Intelligence (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640).
 
 
-## Open Source Scope
+## Open Source Objective
 EMIT needs reliability in 3D printing manufacturing and the opensource project is for reproduction, and reliability in engineering for its impacful applicaiton to find missing items like crashed airplanes in ocean, sunked ship, sunked containers or missing divers. We believe EMIT should be open source technology to be improve collaboration between AI scientist, amd intelligent mechanical metamaterial scientists to develop reliable EMIT mechanical intelligence and mechanical wave chipsets for mechanical computers for its impacful application use.
 
 ## What is EMIT?
