@@ -24,5 +24,6 @@ This repository contains an Excel dataset and a machine learning project inspire
     ```
 3. Run the scripts or open the Jupyter notebook to explore the project.
 
-## Reference Paper on Arxiv
+## Link to Reference Papers
 - [EMIT Mechanical Intelligence Design (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640)
+- [Daniel Saatchi PhD Thesis (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640)
