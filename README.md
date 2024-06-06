@@ -1,4 +1,4 @@
-# EMIT Mechanical Intelligence Design 
+![image](https://github.com/danielsaatchi/EMIT/assets/47679486/c99cee35-892e-4c34-a7a2-5b8f38fbb68c)# EMIT Mechanical Intelligence Design 
 This is an Open Source Technology Blueprint
 
 ## Machine Learning on TPMS dataset
@@ -35,6 +35,9 @@ Encoded Mechanical Intelligence Tag (EMIT)
  
    3.1 Importing Libraries in Jupyter notebook 
    ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/86257a6f-32c9-4bf1-9873-1388557e9517)
+
+    3.2 Importing TPMS dataset
+   ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/7413aad7-c85f-4820-b10f-4da20421e197)
 
 
 ### Link to Reference Papers
