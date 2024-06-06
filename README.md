@@ -1,5 +1,5 @@
 # EMIT Mechanical Intelligence Design 
-This is a Open Soruce Technology Blueprint
+This is an Open Soruce Technology Blueprint
 
 ## Machine Learning on TPMS dataset
 
