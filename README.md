@@ -3,7 +3,7 @@
 
 This repository contains an Excel dataset and a machine learning project inspired by the arXiv paper [Title of the Paper](https://arxiv.org/abs/1506.02640).
 ## Open Source Scope
-EMIT needs reliability in 3D printing manufacturing and the opensource project is for reproduction, and reliability in engineering for its impacful applicaiton to find missing items like crashed airplanes in ocean, sunked sip, sunked containers or missing divers. We believe EMIT should be opensource technology to be improve collaboration between AI scienttist amd intelligent mechanical metaterial scientists work on EMIT mechanical intelligence.
+EMIT needs reliability in 3D printing manufacturing and the opensource project is for reproduction, and reliability in engineering for its impacful applicaiton to find missing items like crashed airplanes in ocean, sunked sip, sunked containers or missing divers. We believe EMIT should be opensource technology to be improve collaboration between AI scienttist amd intelligent mechanical metaterial scientists to develop reliable EMIT mechanical intelligence for its impacful application use.
 
 ## What is EMIT?
 Encoded Mechanical Intelligence Tag (EMIT)
