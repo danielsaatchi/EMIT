@@ -39,6 +39,11 @@ Encoded Mechanical Intelligence Tag (EMIT)
     3.2 Importing TPMS dataset
    ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/7413aad7-c85f-4820-b10f-4da20421e197)
 
+    3.2 Acoustic feature extraction for sound wave and acoustic metamaterial data-driven design with machine learning
+   ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/5b202775-70e2-4c6b-9c91-810e13feff8b)
+
+
+
 
 ### Link to Reference Papers
 - [Arxiv Paper: EMIT Mechanical Intelligence Design (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640)
