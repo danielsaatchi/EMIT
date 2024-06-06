@@ -1,7 +1,7 @@
 # EMIT Mechanical Intelligence Design (Open Source)
 ## Machine Learning on TPMS dataset
 
-This repository contains an Excel dataset and a machine learning based on contribution from KAIST Sofr Robotics and Intelligent Materials (SRIM) Labratory with arXiv paper [EMIT Mechanical Intelligence (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640).
+This repository contains an TPMS dataset and machine learning models based on contribution from KAIST Sofr Robotics and Intelligent Materials (SRIM) Labratory with arXiv paper [EMIT Mechanical Intelligence (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640).
 
 
 ## Open Source Scope
