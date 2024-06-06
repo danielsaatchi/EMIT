@@ -30,8 +30,8 @@ Encoded Mechanical Intelligence Tag (EMIT)
     ```
 3. Run the scripts or open the Jupyter notebook to explore the project with images and reproduction.
 
-   3.1   Reading libaries
-   #### import libaries for data science and machine learning
+ 
+   #### 3.1 import libaries for data science and machine learning
    ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/86257a6f-32c9-4bf1-9873-1388557e9517)
 
 
