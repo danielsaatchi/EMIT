@@ -1,4 +1,4 @@
-![image](https://github.com/danielsaatchi/EMIT/assets/47679486/c99cee35-892e-4c34-a7a2-5b8f38fbb68c)# EMIT Mechanical Intelligence Design 
+# EMIT Mechanical Intelligence Design 
 This is an Open Source Technology Blueprint
 
 ## Machine Learning on TPMS dataset
