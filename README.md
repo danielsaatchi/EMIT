@@ -29,7 +29,23 @@ Encoded Mechanical Intelligence Tag (EMIT)
     pip install -r requirements.txt
     ```
 3. Run the scripts or open the Jupyter notebook to explore the project with images and reproduction.
-   
+
+   3.1   Reading libaries
+   # import libaries for data science and machine learning
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+%matplotlib inline
+from sklearn.neighbors import NearestNeighbors
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+from sklearn.model_selection import train_test_split
+from sklearn.svm import SVR
+from sklearn.linear_model import LinearRegression
+from sklearn.ensemble import GradientBoostingRegressor, RandomForestRegressor, AdaBoostRegressor
+from sklearn.tree import DecisionTreeRegressor
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn.neural_network import MLPRegressor
 
 ### Link to Reference Papers
 - [Arxiv Paper: EMIT Mechanical Intelligence Design (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640)
