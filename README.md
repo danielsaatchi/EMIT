@@ -37,6 +37,13 @@ Encoded Mechanical Intelligence Tag (EMIT)
 
 ### Citations for Scientists
  Daniel Saatchi, Myung-Joon Lee, Saewoong Oh, Pandit Tushar Prashant, Ji-Seok Kim, Hyunjoon Yoo, Manmatha Mahato, Il-Kwon Oh (2024). EMIT Mechanical Intelligence Design. Arxive 2310.18257v1 (https://doi.org/10.48550/arXiv.2310.18257).
+@article{khojasteh2024practical,
+  title={Practical Object and Flow Structure Segmentation using Artificial Intelligence},
+  author={Khojasteh, Ali Rahimi and van de Water, Willem and Westerweel, Jerry},
+  note={Submitted to Experiments in Fluids},
+  year={2024}
+}
+
 
 ###  Licensed by KAIST and CRI
 - [Soft Robotics and Intelligent Materials Lab](https://srim.kaist.ac.kr/)
