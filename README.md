@@ -1,7 +1,7 @@
-# EMIT Technology Blueprint (Open Source)
+# EMIT Mechanical Intelligence Blueprint (Open Source)
 ## Machine Learning on TPMS dataset
 
-This repository contains an TPMS dataset and machine learning models based on contribution from KAIST Soft Robotics and Intelligent Materials (SRIM) Labratory with arXiv paper [EMIT Mechanical Intelligence (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640).
+This repository contains an TPMS dataset and machine learning models for rapid design of EMIT Mechanical Intelligence Blueprint based on contribution from KAIST Soft Robotics and Intelligent Materials (SRIM) Labratory with arXiv paper [EMIT Mechanical Intelligence (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640).
 
 
 ## Open Source Scope
