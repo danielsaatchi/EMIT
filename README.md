@@ -60,9 +60,9 @@ Encoded Mechanical Intelligence Tag (EMIT)
 ### Citation for Scientists
  Daniel Saatchi, Myung-Joon Lee, Saewoong Oh, Pandit Tushar Prashant, Ji-Seok Kim, Hyunjoon Yoo, Manmatha Mahato, Il-Kwon Oh (2024). EMIT Mechanical Intelligence Design. Arxive 2310.18257v1 (https://doi.org/10.48550/arXiv.2310.18257)
 
-###  Licensed by KAIST and CRI
-- [Soft Robotics and Intelligent Materials Lab](https://srim.kaist.ac.kr/)
-- [National Creative Research Initiative Center for Functionally Anatonistic Nano-Engineering](https://srim.kaist.ac.kr/)
+### License
+- KAIST: [Soft Robotics and Intelligent Materials Lab](https://srim.kaist.ac.kr/)
+- CRI: [National Creative Research Initiative Center for Functionally Anatonistic Nano-Engineering](https://srim.kaist.ac.kr/)
 - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Python](https://img.shields.io/badge/language-Python-blue.svg)
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
