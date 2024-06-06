@@ -35,6 +35,14 @@ Encoded Mechanical Intelligence Tag (EMIT)
 - [Arxiv Paper: EMIT Mechanical Intelligence Design (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640)
 - [KAIST PhD Thesis: Daniel Saatchi (Advisor: IL-Kwon Oh)](https://drive.google.com/file/d/1n1wZJd2kUU5FUxRGdAKw6yvlHCGDI1bT/view?usp=drive_link)
 
+### Citations for Scientists
+@article{oh2024example,
+  title={An Example Paper Title},
+  author={Oh, Professor and Other, Co-Author},
+  journal={arXiv preprint arXiv:1234.56789},
+  year={2024}
+}
+
 
 ###  Licensed by KAIST and CRI
 - [Soft Robotics and Intelligent Materials Lab](https://srim.kaist.ac.kr/)
