@@ -44,7 +44,9 @@ Encoded Mechanical Intelligence Tag (EMIT)
    
     3.4 Data Analysis: Ploting VF Variations to observe acoustic bandgaps (ABG)
     ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/d66c8a7d-a9a6-46e6-b932-14325d7c92f3)
-
+   
+    3.4 Training and Sample MLP Machine Learning Predicition (Artificial Neural Network)
+    ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/18177b4f-2248-4802-a27d-c558d756c6ab)
 
 
 
