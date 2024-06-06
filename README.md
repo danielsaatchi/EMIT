@@ -63,8 +63,9 @@ Encoded Mechanical Intelligence Tag (EMIT)
 ### License
 - KAIST: [Soft Robotics and Intelligent Materials Lab](https://srim.kaist.ac.kr/)
 - CRI: [National Creative Research Initiative Center for Functionally Anatonistic Nano-Engineering](https://srim.kaist.ac.kr/)
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Python](https://img.shields.io/badge/language-Python-blue.svg)
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 ###  Acknowledgements
