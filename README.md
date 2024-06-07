@@ -59,6 +59,7 @@ Encoded Mechanical Intelligence Tag (EMIT)
 
 ### Citation for Scientists
  Daniel Saatchi, Myung-Joon Lee, Saewoong Oh, Pandit Tushar Prashant, Ji-Seok Kim, Hyunjoon Yoo, Manmatha Mahato, Il-Kwon Oh (2024). EMIT Mechanical Intelligence Design. Arxive 2310.18257v1 (https://doi.org/10.48550/arXiv.2310.18257)
+ Corresponding Author: Professor IL-KWON OH (ikoh@kaist.ac.kr)
 
 ### License
 - KAIST: [Soft Robotics and Intelligent Materials Lab](https://srim.kaist.ac.kr/)
