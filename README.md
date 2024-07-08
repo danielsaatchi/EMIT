@@ -56,7 +56,8 @@ This echolocaiton identificaiton mechanism also exists in nature between [Carniv
     3.6 Comparing R2 and RSME for different Machine Learning Algorithms on same training set, validation set, and testing set 
     ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/f3e7c68b-1efa-4179-a2a7-df464df54eaa)
 
-
+### Deep Learning SFID echoes classifer and Audio data
+This section will be updated after paper publication and acceptance in journal. 
 
 ### Link to Reference Papers
 - [Arxiv Paper: EMIT (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640)
