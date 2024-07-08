@@ -62,8 +62,8 @@ This echolocaiton identificaiton mechanism also exists in nature between [Carniv
 - [Arxiv Paper: EMIT Mechanical Intelligence Design (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640)
 - [KAIST PhD Thesis: Daniel Saatchi (Advisor: IL-Kwon Oh)](https://drive.google.com/file/d/1n1wZJd2kUU5FUxRGdAKw6yvlHCGDI1bT/view?usp=drive_link)
 
-### Citation for Scientists
- Daniel Saatchi, Myung-Joon Lee, Saewoong Oh, Pandit Tushar Prashant, Ji-Seok Kim, Hyunjoon Yoo, Manmatha Mahato, Il-Kwon Oh (2024). EMIT Mechanical Intelligence Design. Arxive 2310.18257v1 (https://doi.org/10.48550/arXiv.2310.18257)
+### Citation for Scientists and first SFID-tag co-inventors
+ Daniel Saatchi, Myung-Joon Lee, Pandit Tushar Prashant, Manmatha Mahato, Il-Kwon Oh (2024). EMIT (SFID-tags) . Arxive 2310.18257v1 (https://doi.org/10.48550/arXiv.2310.18257)
  - Corresponding Author: Professor IL-KWON OH (ikoh@kaist.ac.kr)
 
 ### License
