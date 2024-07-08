@@ -17,7 +17,7 @@ Verb "emit" means to "send out light, sound, or a smell, or a gas or other subst
 
 This echololocation identificaiton mechanism also exists in nature between two facinating symbionts; [Carnivorous pitcher plant called Borneo and bat](https://commonnaturalist.com/2016/05/13/the-bats-that-live-in-carnivorous-plants/) when bat emits sound and follws its echoes changed by Borneo pitcher plant to find it for symbiotic acoustic communication in air in forrest. 
 
-The first electromagnetic radio frequency identifcation (RFID)-tag has been invented back in 1973 by Charles Walton at MIT university unlokced RFID Transponder systems, but the first passive SFID-tag (EMIT) is invented in 2024 at KAIST university by IL-KWON OH and DANIEL SAATCHI unlokced commence of SFID transponder system. SFID-tags works based on mechanical sound frequencies. 
+The first electromagnetic radio frequency identifcation (RFID)-tag has been invented back in 1973 by Charles Walton at MIT university unlokced RFID Transponder systems, but the first passive SFID-tag (EMIT) is invented in 2024 at KAIST university by IL-KWON OH and DANIEL SAATCHI unlocked development of SFID transponder systems. SFID-tags works based on mechanical sound frequencies. 
 
 ## Files
 - `TPMS_BNF_data.csv`: The dataset used for training and evaluation.
