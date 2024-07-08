@@ -20,10 +20,10 @@ This echolocaiton identificaiton mechanism also exists in nature between [Carniv
 
 ## Files
 - `TPMS_BNF_data.csv`: The dataset used for training and evaluation.
-- `preprocess.py`: Script for data preprocessing.
-- `train_model.py`: Script for training the machine learning model.
-- `evaluate_model.py`: Script for evaluating the trained model.
-- `notebook.ipynb`: Jupyter notebook documenting the entire workflow in one single file like instruction. 
+- `clean.py`: Script for data preprocessing.
+- `train.py`: Script for training the model.
+- `predict.py`: Script for predicting with the trained model.
+- `EMIT.ipynb`: Jupyter notebook documenting the entire workflow in one single file like instruction. 
 
 ## Instructions
 1. Clone the repository:
