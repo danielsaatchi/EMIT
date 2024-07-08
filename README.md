@@ -12,6 +12,9 @@ EMIT needs reliability in 3D printing manufacturing and the opensource project i
 ## What is EMIT?
 Encoded Mechanical Identification Tags (EMIT) are first generation of passive sonic frequency identification (SFID) transponders unlocking development of SFID intelligent system. 
 
+According to [Camrdige dictionary](https://dictionary.cambridge.org/dictionary/english/emit):
+Verb "emit" means to "send out light, sound, or a smell, or a gas or other substance"
+
 
 ## Files
 - `TPMS_BNF_data.csv`: The dataset used for training and evaluation.
