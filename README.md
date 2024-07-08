@@ -66,6 +66,7 @@ This section will be updated after paper publication and acceptance in journal.
 ### Citation for scientists and co-inventors
  - Daniel Saatchi, Myung-Joon Lee, Tushar Prashant Pandit, Manmatha Mahato, Il-Kwon Oh. 2024, EMIT (SFID-tags) . Arxive 2310.18257v1 (https://doi.org/10.48550/arXiv.2310.18257)
  - Corresponding Author: Professor IL-KWON OH (ikoh@kaist.ac.kr)
+ - Github developer and updates: DANIEL SAATCHI
 
 ### License
 - KAIST: [Soft Robotics and Intelligent Materials Lab](https://srim.kaist.ac.kr/)
