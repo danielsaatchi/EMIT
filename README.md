@@ -7,7 +7,7 @@ This repository contains an TPMS dataset and machine learning models for rapid d
 
 
 ## Open Source Objective
-EMIT needs reliability in 3D printing manufacturing and the opensource project is for reproduction, and reliability in engineering for its impacful applicaiton to find missing items like crashed airplanes in ocean, sunked ship, sunked containers or missing divers. We believe EMIT should be open source technology to be improve collaboration between AI scientist, amd intelligent mechanical metamaterial scientists to develop reliable EMIT mechanical intelligence, mechanical wave chipsets and mechanical chip-tags for mechanical transponder computing for its impacful application use.
+EMIT needs reliability in 3D printing manufacturing and the opensource contribution is for reproduction, and reliability in engineering for its impacful applicaiton to find missing items like crashed airplanes in ocean, sunked ship, sunked containers or missing divers. We believe EMIT should be open source technology to be improve collaboration between AI scientist, amd intelligent mechanical metamaterial scientists to develop reliable EMIT mechanical intelligence, mechanical wave chipsets and mechanical chip-tags for mechanical transponder computing for its impacful application use.
 
 ## What is EMIT?
 Encoded Mechanical Identification Tags (EMIT) are first generation of passive sonic frequency identification (SFID) transponders unlocking development of SFID intelligent system empowering machines with echolocation identification sensing.
