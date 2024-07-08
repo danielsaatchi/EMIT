@@ -1,4 +1,4 @@
-# EMIT Mechanical Intelligence Design 
+# EMIT (SFID-tags) 
 This is an Open Source Technology Blueprint
 
 ## Machine Learning on TPMS dataset
