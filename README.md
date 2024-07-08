@@ -10,7 +10,7 @@ This repository contains an TPMS dataset and machine learning models for rapid d
 EMIT needs reliability in 3D printing manufacturing and the opensource project is for reproduction, and reliability in engineering for its impacful applicaiton to find missing items like crashed airplanes in ocean, sunked ship, sunked containers or missing divers. We believe EMIT should be open source technology to be improve collaboration between AI scientist, amd intelligent mechanical metamaterial scientists to develop reliable EMIT mechanical intelligence and mechanical wave chipsets for mechanical computers for its impacful application use.
 
 ## What is EMIT?
-Encoded Mechanical Identification Tags (EMIT) are first generation of passive sonic frequency identification (SFID) transponders unlocking development of SFID intelligent system. 
+Encoded Mechanical Identification Tags (EMIT) are first generation of passive sonic frequency identification (SFID) transponders unlocking development of SFID intelligent system empowering machines with echolocation identification sensing.
 
 According to [Camrdige dictionary](https://dictionary.cambridge.org/dictionary/english/emit) and [Oxford Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/emit):
 Verb "emit" means to "send out light, sound, or a smell, or a gas or other substance".  EMIT (SFID-tag) emits echoes as a passive transponder when interacts with incident certian sound frequency wave. 
