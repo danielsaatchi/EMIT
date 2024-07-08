@@ -15,7 +15,7 @@ Encoded Mechanical Identification Tags (EMIT) are first generation of passive so
 According to [Camrdige dictionary](https://dictionary.cambridge.org/dictionary/english/emit) and [Oxford Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/emit):
 Verb "emit" means to "send out light, sound, or a smell, or a gas or other substance".  EMIT (SFID-tag) emits echoes as a passive transponder when interacts with incident certian sound frequency wave. 
 
-This mechanism also exists in nature between [Carnivorous pitcher plant called Borneo and bat](https://commonnaturalist.com/2016/05/13/the-bats-that-live-in-carnivorous-plants/) when bat emits sound and follw the its echoes from Borneo to find it for mutualistic acoustic symbiosis. 
+This echolocaiton identificaiton mechanism also exists in nature between [Carnivorous pitcher plant called Borneo and bat](https://commonnaturalist.com/2016/05/13/the-bats-that-live-in-carnivorous-plants/) when bat emits sound and follw the its echoes from Borneo to find it for mutualistic acoustic symbiosis. 
 
 
 ## Files
