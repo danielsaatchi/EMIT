@@ -3,7 +3,7 @@ This is an Open Source Deeptech Blueprint
 
 ## Machine Learning on TPMS dataset
 
-This repository contains a limited TPMS dataset and machine learning models for rapid design of EMIT based on contribution from KAIST Soft Robotics and Intelligent Materials (SRIM) Labratory with arXiv paper [EMIT (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640).
+This repository contains a limited TPMS dataset and machine learning models for rapid design of EMIT based on contribution from KAIST Soft Robotics and Intelligent Materials (SRIM) Labratory with InfoMat Joournal paper [EMIT (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640).
 
 
 ## Open Source Objective
@@ -65,7 +65,7 @@ This section will be updated after paper publication and acceptance in journal.
 - [KAIST PhD Thesis: Daniel Saatchi (Advisor: IL-Kwon Oh)](https://drive.google.com/file/d/1n1wZJd2kUU5FUxRGdAKw6yvlHCGDI1bT/view?usp=drive_link)
 
 ### Citation for scientists and co-inventors
- - Daniel Saatchi, Myung-Joon Lee, Tushar Prashant Pandit, Manmatha Mahato, Il-Kwon Oh. 2024, EMIT (SFID-tags) . Arxive 2310.18257v1 (https://doi.org/10.48550/arXiv.2310.18257)
+ - Daniel Saatchi, Myung-Joon Lee, Tushar Prashant Pandit, Manmatha Mahato, Il-Kwon Oh. 2024, Artificial Intelligence in Metamaterial Informatics for Sonic Frequency Mechanical Identification Tags. EMIT (SFID-tags) . Arxive 2310.18257v1 (https://doi.org/10.48550/arXiv.2310.18257)
  - Corresponding Author: Professor IL-KWON OH (ikoh@kaist.ac.kr)
  - GitHub repository developer: DANIEL SAATCHI
 
