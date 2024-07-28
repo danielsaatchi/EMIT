@@ -3,28 +3,28 @@ This is an Open Source Deeptech Blueprint
 
 ## Machine Learning on TPMS dataset
 
-This repository contains a limited TPMS dataset and machine learning models for rapid design of EMIT based on contribution from KAIST Soft Robotics and Intelligent Materials (SRIM) Labratory with InfoMat Journal paper [EMIT (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640).
+This repository contains a limited TPMS dataset and machine learning models for rapid design of EMIT based on contribution from KAIST Soft Robotics and Intelligent Materials (SRIM) Laboratory with InfoMat Journal paper [EMIT (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640).
 
 
 ## Open Source Objective
-EMIT needs reliability in 3D printing manufacturing and the opensource contribution is for reproduction, and reliability in engineering for its impacful applicaiton to find missing items like crashed airplanes in ocean, sunked ship, sunked containers or missing divers. We believe EMIT should be open source technology to be improve collaboration between AI scientist, amd intelligent mechanical metamaterial scientists to develop reliable EMIT mechanical intelligence, mechanical wave chipsets and mechanical chip-tags for mechanical transponder computing for its impacful application use.
+EMIT needs reliability in 3D printing manufacturing and the open-source contribution is for reproduction, and reliability in engineering for its impactful application to find missing items like crashed airplanes in the ocean, sunken ships, sunken containers, or missing divers. EMIT should be open source technology to improve collaboration between AI scientists, and intelligent mechanical metamaterial scientists to develop reliable EMIT mechanical intelligence, mechanical wave chipsets, and mechanical chip-tags for mechanical transponder computing for its impactful application use.
 
 ## What is EMIT?
-Encoded Mechanical Identification Tags (EMIT) are first generation of passive sonic frequency identification (SFID) transponders unlocking development of SFID intelligent system empowering machines with echolocation identification sensing in acoustic telecomunication.
+Encoded Mechanical Identification Tags (EMIT) are the first generation of passive sonic frequency identification (SFID) transponders unlocking the development of SFID intelligent systems empowering machines with echolocation identification sensing in acoustic telecommunication.
 
 According to [Camrdige dictionary](https://dictionary.cambridge.org/dictionary/english/emit) and [Oxford dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/emit):
-Verb "emit" means to "send out light, sound, or a smell, or a gas or other substance".  EMIT (SFID-tag) emits echoes as a passive transponder when interacts incident sonics frequencies and sound waves. 
+The verb "emit" means to "send out light, sound, or a smell, or a gas or other substance".  EMIT (SFID-tag) emits echoes as a passive transponder when it interacts with incident sonics frequencies and sound waves. 
 
-This echololocation identificaiton mechanism also exists in nature between two facinating symbionts; [Carnivorous pitcher plant called Borneo and bat](https://commonnaturalist.com/2016/05/13/the-bats-that-live-in-carnivorous-plants/) when bat emits sound and follws its echoes changed by Borneo pitcher plant to find it for symbiotic acoustic communication in air in forrest. 
+This sonic echolocation identification mechanism also exists in nature between two fascinating symbionts; [Carnivorous pitcher plant called Borneo and bat](https://commonnaturalist.com/2016/05/13/the-bats-that-live-in-carnivorous-plants/) when bat emits sound and follows its echoes changed by Borneo pitcher plant to find it for symbiotic acoustic communication in the air in Forrest. 
 
-The first electromagnetic radio frequency identifcation [(RFID)-tag](https://en.wikipedia.org/wiki/Radio-frequency_identification) has been invented back in 1973 by [Charles Walton ](https://en.wikipedia.org/wiki/Charles_Walton_(inventor))at MIT university unlokced RFID Transponder systems, but the first passive SFID-tag (EMIT) is invented in 2024 at KAIST university by IL-KWON OH and DANIEL SAATCHI unlocked development of SFID transponder systems. SFID-tags works based on mechanical sound waves and sonic frequencies. 
+The first electromagnetic radio frequency identification [(RFID)-tag](https://en.wikipedia.org/wiki/Radio-frequency_identification) was invented back in 1973 by [Charles Walton ](https://en.wikipedia.org/wiki/Charles_Walton_(inventor))at MIT university unlokced RFID Transponder systems, but the first passive SFID-tag (EMIT) is invented in 2024 at KAIST university by IL-KWON OH and DANIEL SAATCHI unlocked development of SFID transponder systems. SFID-tags work based on mechanical sound waves and sonic frequencies. 
 
 ## Files
 - `TPMS_BNF_data.csv`: The dataset used for training and evaluation.
 - `clean.py`: Script for data preprocessing.
 - `train.py`: Script for training the model.
 - `predict.py`: Script for predicting with the trained model.
-- `EMIT.ipynb`: Jupyter notebook documenting the entire workflow in one single file like instruction. 
+- `EMIT.ipynb`: Jupyter notebook documenting the entire workflow in one single file-like instruction. 
 
 ## Instructions
 1. Clone the repository:
@@ -36,10 +36,10 @@ The first electromagnetic radio frequency identifcation [(RFID)-tag](https://en.
     ```bash
     pip install -r requirements.txt
     ```
-3. Run the scripts or open the Jupyter notebook to explore the project with images and reproduction.
+3. Run the scripts or open the Jupyter Notebook to explore the project with images and reproduction.
 
  
-   3.1 Importing Libraries in Jupyter notebook 
+   3.1 Importing Libraries in Jupyter Notebook 
    ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/86257a6f-32c9-4bf1-9873-1388557e9517)
 
     3.2 Importing TPMS dataset
@@ -51,21 +51,21 @@ The first electromagnetic radio frequency identifcation [(RFID)-tag](https://en.
     3.4 Data Analysis: Ploting VF Variations to observe acoustic bandgaps (ABG)
     ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/d66c8a7d-a9a6-46e6-b932-14325d7c92f3)
    
-    3.5 Training and Sample MLP Machine Learning Predicition (Artificial Neural Network)
+    3.5 Training and Sample MLP Machine Learning Prediction (Artificial Neural Network)
     ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/18177b4f-2248-4802-a27d-c558d756c6ab)
 
-    3.6 Comparing R2 and RSME for different Machine Learning Algorithms on same training set, validation set, and testing set 
+    3.6 Comparing R2 and RSME for different Machine Learning Algorithms on the same training set, validation set, and testing set 
     ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/f3e7c68b-1efa-4179-a2a7-df464df54eaa)
 
-### Deep Learning SFID echoes classifer and experimental SFID-tags audio dataset 
-This section will be updated after paper publication and acceptance in journal. 
+### Deep Learning SFID-classifier and experimental SFID-tags audio dataset 
+This section will be updated after the paper's publication and acceptance in the journal. 
 
 ### Link to Reference Papers
 - [InfoMat Paper: EMIT (IL-Kwon Oh et al)](https://arxiv.org/abs/1506.02640)
 - [KAIST PhD Thesis: Daniel Saatchi (Advisor: IL-Kwon Oh)](https://drive.google.com/file/d/1n1wZJd2kUU5FUxRGdAKw6yvlHCGDI1bT/view?usp=drive_link)
 
 ### Citation for scientists and co-inventors
- - Daniel Saatchi, Myung-Joon Lee, Tushar Prashant Pandit, Manmatha Mahato, Il-Kwon Oh. 2024, Artificial Intelligence in Metamaterial Informatics for Sonic Frequency Mechanical Identification Tags. EMIT (SFID-tags) . InfoMat 2024.03-24 (https://doi.org/10.48550/arXiv.2310.18257)
+ - Daniel Saatchi, Myung-Joon Lee, Tushar Prashant Pandit, Manmatha Mahato, Il-Kwon Oh. 2024, Artificial Intelligence in Metamaterial Informatics for Sonic Frequency Mechanical Identification Tags. EMIT (SFID-tags). InfoMat 2024.03-24 (https://doi.org/10.48550/arXiv.2310.18257)
  - Corresponding Author: Professor IL-KWON OH (ikoh@kaist.ac.kr)
  - GitHub repository developer: DANIEL SAATCHI
 
