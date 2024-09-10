@@ -55,7 +55,7 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
     ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/18177b4f-2248-4802-a27d-c558d756c6ab)
 
     3.6 Comparing R2 and RSME for different Machine Learning Algorithms on the same training set, validation set, and testing set 
-    ![image](https://github.com/danielsaatchi/EMIT/assets/47679486/f3e7c68b-1efa-4179-a2a7-df464df54eaa)
+    ![image](https://github.com/user-attachments/assets/2609381b-31a4-47bb-b9b0-78a3ba4d0647)
 
 ### Deep Learning SFID-classifier and experimental SFID-tags audio dataset 
 This section will be updated after the paper's publication and acceptance in the journal. 
