@@ -57,6 +57,9 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
     3.6 Comparing R2 and RSME for different Machine Learning Algorithms on the same training set, validation set, and testing set 
     ![image](https://github.com/user-attachments/assets/2609381b-31a4-47bb-b9b0-78a3ba4d0647)
 
+   3.7 ML Generated Serial Number for EMIT (SFID-tag)
+   *Note: while the dataset is complete for all types of TPMS (e.g. Diamond, Gyroid, Hexagonal, etc.) or unseen domains, the ML serial numbers can be generated with the final design metamaterial parameters
+
 ### Deep Learning SFID-classifier and experimental SFID-tags audio dataset 
 This section will be updated after the paper's publication and acceptance in the journal. 
 
