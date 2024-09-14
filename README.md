@@ -62,6 +62,10 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
 
 ### Deep Learning SFID-classifier and experimental SFID-tags audio dataset 
 This section will be updated after the paper's publication and acceptance in the journal. 
+![image](https://github.com/user-attachments/assets/357a4ce7-c191-4d4e-aa7f-625bc0999864)
+EMIT on Guitars related to the "Audio Dataset" folder for air-medium.
+![image](https://github.com/user-attachments/assets/6198cb7d-8c38-47e3-ae06-4a654a639933)
+
 
 ### Link to Reference Papers
 - [AFM Paper: EMIT (IL-Kwon Oh et al)](https://onlinelibrary.wiley.com/journal/16163028)
