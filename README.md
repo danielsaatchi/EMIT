@@ -60,23 +60,23 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
    3.7 ML Generated Serial Number for EMIT (SFID-tag)
    *Note: while the dataset is complete for all types of TPMS (e.g. Diamond, Gyroid, Hexagonal, etc.) or unseen domains, the ML serial numbers can be generated with the final design metamaterial parameters
 
-    ## Deep Learning SFID-classifier and experimental SFID-tags audio dataset 
-    This section will be updated after the paper's publication and acceptance in the journal. 
-        ![image](https://github.com/user-attachments/assets/357a4ce7-c191-4d4e-aa7f-625bc0999864)
-    EMIT on Guitars related to the "Audio Dataset" folder for air-medium.
-        ![image](https://github.com/user-attachments/assets/6198cb7d-8c38-47e3-ae06-4a654a639933)
+## Deep Learning SFID-classifier and experimental SFID-tags audio dataset 
+This section will be updated after the paper's publication and acceptance in the journal. 
+    ![image](https://github.com/user-attachments/assets/357a4ce7-c191-4d4e-aa7f-625bc0999864)
+EMIT on Guitars related to the "Audio Dataset" folder for air-medium.
+    ![image](https://github.com/user-attachments/assets/6198cb7d-8c38-47e3-ae06-4a654a639933)
 
 
-### Link to Reference Papers
+## Link to Reference Papers
 - [AFM Paper: EMIT (IL-Kwon Oh et al)](https://onlinelibrary.wiley.com/journal/16163028)
 - [KAIST PhD Thesis: Daniel Saatchi (Advisor: IL-Kwon Oh)](https://drive.google.com/file/d/1n1wZJd2kUU5FUxRGdAKw6yvlHCGDI1bT/view?usp=drive_link)
 
-### Citation for scientists and co-inventors
+## Citation for scientists and co-inventors
  - Daniel Saatchi, Myung-Joon Lee, Tushar Prashant Pandit, Manmatha Mahato, Il-Kwon Oh. 2024, Artificial Intelligence in Metamaterial Informatics for Sonic Frequency Mechanical Identification Tags. EMIT (SFID-tags). Advanced Functional Material 2024.08.09 (https://doi.org/10.48550/arXiv.2310.18257)
  - Corresponding Author: Professor IL-KWON OH (ikoh@kaist.ac.kr)
  - GitHub repository developer: DANIEL SAATCHI
 
-### License
+## License
 - KAIST: [Soft Robotics and Intelligent Materials Lab](https://srim.kaist.ac.kr/)
 - CRI: [National Creative Research Initiative Center for Functionally Anatonistic Nano-Engineering](https://srim.kaist.ac.kr/)
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -84,6 +84,6 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
 
 
 
-###  Acknowledgements
+##  Acknowledgements
 This work was partially supported by the Creative Research Initiative Program (2015R1A3A2028975), funded by the National Research Foundation of Korea (NRF). This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (RS-2023-00302525).  The dataset and open source code is available at https://github.com/danielsaatchi/EMIT
 
