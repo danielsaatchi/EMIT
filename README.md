@@ -60,7 +60,7 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
    3.7 ML Generated Serial Number for EMIT (SFID-tag)
    *Note: while the dataset is complete for all types of TPMS (e.g. Diamond, Gyroid, Hexagonal, etc.) or unseen domains, the ML serial numbers can be generated with the final design metamaterial parameters
 
-    ### Deep Learning SFID-classifier and experimental SFID-tags audio dataset 
+    ## Deep Learning SFID-classifier and experimental SFID-tags audio dataset 
     This section will be updated after the paper's publication and acceptance in the journal. 
         ![image](https://github.com/user-attachments/assets/357a4ce7-c191-4d4e-aa7f-625bc0999864)
     EMIT on Guitars related to the "Audio Dataset" folder for air-medium.
