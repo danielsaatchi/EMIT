@@ -88,5 +88,5 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
 
 
 ##  Acknowledgements
-This work was partially supported by the Creative Research Initiative Program (2015R1A3A2028975), funded by the National Research Foundation of Korea (NRF). This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (RS-2023-00302525).  The dataset and open source code is available at https://github.com/danielsaatchi/EMIT
+This work was partially supported by the Creative Research Initiative Program (2015R1A3A2028975), funded by the National Research Foundation of Korea (NRF). This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (RS-2023-00302525).  The dataset and open source code is available at https://github.com/danielsaatchi/EMIT. The SFID-classifer is based on customized Audio-classfier developed by https://github.com/seth814/Audio-Classification.
 
