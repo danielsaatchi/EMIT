@@ -93,3 +93,9 @@ This work was partially supported by the Creative Research Initiative Program (2
 - The open-source dataset and codes to design EMITs (SFID-tags) are available at https://github.com/danielsaatchi/EMIT. 
 - The SFID-classifer is based on customized Audio-classfier developed by https://github.com/seth814/Audio-Classification.
 
+- ##  Update Notes
+This work is getting updated chronically from dataset to advanced codes for optimization.
+
+- ##  Contributer Wall
+If you forked or contributed to improvement, you can request mentioned here. 
+
