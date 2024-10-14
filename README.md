@@ -20,7 +20,7 @@ This sonic echolocation identification mechanism also exists in nature between t
 The first electromagnetic radio frequency identification [(RFID)-tag](https://en.wikipedia.org/wiki/Radio-frequency_identification) was invented back in 1973 by [Charles Walton ](https://en.wikipedia.org/wiki/Charles_Walton_(inventor))at MIT university unlokced RFID Transponder systems, but the first passive SFID-tag (EMIT) is invented in 2024 at KAIST university by IL-KWON OH and DANIEL SAATCHI unlocked development of SFID transponder systems. SFID-tags work based on mechanical sound waves and sonic frequencies. 
 
 ## Files
-- `TPMS_BNF_data.csv`: The TPMS dispersion curve dataset used for ML training and evaluation for EMIT-design.
+- `20240604 TPMS_Dataset_GitHub_Reference.csv`: The TPMS dispersion curve dataset used for ML training and evaluation for EMIT-design.
 - `clean.py`: Script for data preprocessing for SFID-tags (EMIT) audio dataset.
 - `train.py`: Script for DL training the SFID-classifer model.
 - `predict.py`: Script for predicting with the trained DL model.
