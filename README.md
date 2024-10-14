@@ -25,6 +25,7 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
 - `train.py`: Script for DL training the SFID-classifer model.
 - `predict.py`: Script for predicting with the trained DL model.
 - `EMIT.ipynb`: Jupyter notebook documenting the entire workflow in one single file-like instruction for ML models.
+- `EMIT-Reference.ipynb`: Referenced Jupyter notebook documenting the entire workflow for ML models.
 
 ## Instructions
 1. Clone the repository:
