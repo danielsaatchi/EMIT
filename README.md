@@ -87,7 +87,6 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
 - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Python](https://img.shields.io/badge/language-Python-blue.svg)
 
 
-
 ##  Acknowledgements
 This work was partially supported by the Creative Research Initiative Program (2015R1A3A2028975), funded by the National Research Foundation of Korea (NRF). This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (RS-2023-00302525).  
 - The open-source dataset and codes to design EMITs (SFID-tags) are available at https://github.com/danielsaatchi/EMIT. 
@@ -96,6 +95,4 @@ This work was partially supported by the Creative Research Initiative Program (2
 ##  Update Notes
 This work is getting updated chronically from dataset to advanced codes for optimization.
 
-##  Contributer Wall
-If you forked or contributed to improvement, you can request mentioned here. 
 
