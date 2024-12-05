@@ -64,7 +64,7 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
    3.8 ML Generated Serial Number for EMIT (SFID-tag)
    *Note: while the dataset is complete for all types of TPMS (e.g. Diamond, Gyroid, Hexagonal, etc.) or unseen domains, the ML serial numbers can be generated with the final design metamaterial parameters
    
-    ## Mechanical Encoding Algorithm to Generae Serial Numbers 
+    ## Mechanical Encoding Algorithm to Generate Serial Numbers 
     This section will be updated. Please find in appendix of supporting information in AFM of paper.
    
     ## Deep Learning SFID-classifier and experimental SFID-tags audio dataset 
