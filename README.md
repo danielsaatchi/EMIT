@@ -71,9 +71,9 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
         ![image](https://github.com/user-attachments/assets/6198cb7d-8c38-47e3-ae06-4a654a639933)
 
 
-## Link to Reference Papers
+## Link to Reference Papers and PhD Thesis
 - [AFM Paper: EMIT (IL-Kwon Oh et al)](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202414670)
-- [KAIST PhD Thesis: Daniel Saatchi (Advisor: IL-Kwon Oh)](https://drive.google.com/file/d/1n1wZJd2kUU5FUxRGdAKw6yvlHCGDI1bT/view?usp=drive_link)
+- [KAIST PhD Thesis: Daniel Saatchi (Advisor: IL-Kwon Oh)](https://kdrm.kaist.ac.kr/ezpdfwebviewer/ezpdf/customLayout.jsp?encdata=1661C4B33B47740F513004971ECE60B472F3306681B669212A56B59E10F24C10E464993BE0419278598BD59B7D4A0373C2432F6C4341AAA35C965AFD1A1D75E55B00F5FD41B0997C&lang=en)
 
 ## Citation for scientists and co-inventors
  - Daniel Saatchi, Myung-Joon Lee, Tushar Prashant Pandit, Manmatha Mahato, Il-Kwon Oh. 2024, Artificial Intelligence in Metamaterial Informatics for Sonic Frequency Mechanical Identification Tags. EMIT (SFID-tags). Advanced Functional Materials, 2214670.
