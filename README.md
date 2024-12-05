@@ -72,7 +72,7 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
 
 
 ## Link to Reference Papers
-- [AFM Paper: EMIT (IL-Kwon Oh et al)](https://onlinelibrary.wiley.com/journal/16163028)
+- [AFM Paper: EMIT (IL-Kwon Oh et al)](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202414670)
 - [KAIST PhD Thesis: Daniel Saatchi (Advisor: IL-Kwon Oh)](https://drive.google.com/file/d/1n1wZJd2kUU5FUxRGdAKw6yvlHCGDI1bT/view?usp=drive_link)
 
 ## Citation for scientists and co-inventors
