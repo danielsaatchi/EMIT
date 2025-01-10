@@ -1,5 +1,5 @@
 # EMIT (SFID-tags) 
-This is an Open Source Deeptech Blueprint
+This is an open-source blueprint for the sonic transponder AI system.
 
 ## Machine Learning on TPMS dataset
 
