@@ -3,7 +3,7 @@ This is an open-source blueprint for the sonic transponder AI system.
 
 ## Machine Learning on TPMS dataset
 
-This repository contains a limited TPMS dataset and machine learning models for rapid design of EMIT based on contribution from KAIST Soft Robotics and Intelligent Materials (SRIM) Laboratory with Wiley Advanced Functional Materials journal paper [EMIT (IL-Kwon Oh et al)](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202414670).
+This repository contains a limited TPMS dataset and machine learning models for rapid design of EMIT based on contribution from KAIST Soft Robotics and Intelligent Materials (SRIM) Laboratory with Wiley Advanced Functional Materials journal paper [EMIT (IL-Kwon Oh et al)](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202414670) for [material informatics](https://en.wikipedia.org/wiki/Materials_informatics).
 
 
 ## Open Source Objective
