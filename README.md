@@ -31,7 +31,7 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
 1. Clone the repository:
     ```bash
     git clone https://github.com/danielsaatchi/emit.git
-    cd EMIT-main
+    cd EMIT
     ```
 2. Set up a miniconda=4.8.3 or later version environment and install dependencies:
     ```bash
