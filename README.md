@@ -95,7 +95,8 @@ This work was partially supported by the Creative Research Initiative Program (2
 - The open-source dataset and codes to design EMITs (SFID-tags) are available at https://github.com/danielsaatchi/EMIT. 
 - The SFID-classifer is based on customized Audio-classfier developed by https://github.com/seth814/Audio-Classification.
 
-##  Update Notes
-This work is getting updated chronically from dataset to advanced codes for optimization. For TPMS CAD/Simulations/3D printing on Comsol & Blender, please follow previous papers by authors published before in reputable journal with supporting informations. 
+##  Update Notes (v0.1.1)
+- This work is getting updated chronically from dataset to advanced codes for optimization. 
+- For TPMS CAD/Simulations/3D printing on Comsol & Blender, please follow previous papers by authors published before in reputable journal with supporting informations. 
 
 
