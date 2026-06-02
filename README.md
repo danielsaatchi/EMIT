@@ -6,11 +6,11 @@ This is an open-source blueprint for the sonic transponder AI system.
 This repository contains a limited TPMS dataset and machine learning models for rapid design of EMIT based on contribution from KAIST Soft Robotics and Intelligent Materials (SRIM) Laboratory with Wiley Advanced Functional Materials journal paper [EMIT (IL-Kwon Oh et al)](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202414670) for [material informatics](https://en.wikipedia.org/wiki/Materials_informatics).
 
 
-## Open Source Objective
-EMIT needs reliability in 3D printing manufacturing and the open-source contribution is for reproduction, and reliability in engineering for its impactful application to find missing items like crashed airplanes in the ocean, sunken ships, sunken containers, or missing divers. EMIT should be open source technology to improve collaboration between AI scientists, and intelligent mechanical metamaterial scientists to develop reliable EMIT mechanical intelligence, mechanical wave chipsets, and mechanical chip-tags for mechanical transponder computing for its impactful application use.
+## Open-Source Objective
+EMIT needs reliability in 3D printing manufacturing and the open-source contribution is for reproduction, and reliability in engineering for its impactful application to find missing items like crashed airplanes in the ocean, sunken ships, sunken containers, or missing divers. EMIT should be open source technology to improve collaboration between AI scientists, and intelligent mechanical metamaterial scientists to develop reliable EMIT mechanical intelligence, mechanical wave chipsets, and mechanical chiptags for mechanical transponder computing for its impactful application use.
 
 ## What is EMIT?
-Encoded Mechanical Identification Tags (EMIT) are the first generation of passive sonic frequency identification (SFID) transponders unlocking the development of SFID intelligent systems empowering machines with echolocation identification sensing in acoustic telecommunication.
+Encoded Mechanical Identification Tags (EMIT) are the first generation of passive sonic frequency identification (SFID) transponders unlocking the development of SFID AI systems empowering machines with echolocation identification sensing in acoustic telecommunication.
 
 According to [Cambridge dictionary](https://dictionary.cambridge.org/dictionary/english/emit) or [Oxford dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/emit):
 The verb "emit" means to "send out light, sound, or a smell, or a gas or other substance".  EMIT (SFID-tag) emits echoes as a passive transponder when it interacts with incident sonics frequencies and sound waves. 
@@ -96,6 +96,6 @@ This work was partially supported by the Creative Research Initiative Program (2
 - The SFID-classifer is based on customized Audio-classfier developed by https://github.com/seth814/Audio-Classification.
 
 ##  Update Notes
-This work is getting updated chronically from dataset to advanced codes for optimization.
+This work is getting updated chronically from dataset to advanced codes for optimization. For TPMS CAD/Simulations/3D printing on Comsol & Blender, please follo previous papers by authors published before in reputable journal with supporting informations. 
 
 
