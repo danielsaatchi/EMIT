@@ -65,7 +65,7 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
    *Note: while the dataset is complete for all types of TPMS (e.g. Diamond, Gyroid, Hexagonal, etc.) or unseen domains, the ML serial numbers can be generated with the final design metamaterial parameters
    
     ## Mechanical Encoding Algorithm to Generate Serial Numbers 
-    encoder_SN.ipynb is provded in "/Audio Data" folder with EMIT_SN.json for SFID-classifer. Please find in appendix of supporting information in AFM paper.
+    `encoder_SN.ipynb` is provded in "/Audio Dataset" folder with `EMIT_SN.json` for SFID-classifer. Please find in appendix of supporting information in AFM            paper.
 
     ```
    # Reading SN data from JSON file
