@@ -82,7 +82,7 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
     ```
    
     ## Deep Learning SFID-classifier and experimental SFID-tags audio dataset 
-    This mechanical decoding section will be updated after the paper's publication and acceptance in the journal. 
+    This mechanical decoding section will be updated after the paper's publication and acceptance in the journal. Please follow above instructon for encoding and     then place the encoded folders with audio dataset in the Audio-classfier repository available at https://github.com/seth814/Audio-Classification or https://github.com/danielsaatchi/Audio-Classification 
         ![image](https://github.com/user-attachments/assets/357a4ce7-c191-4d4e-aa7f-625bc0999864)
     EMIT on Guitars related to the "Audio Dataset" folder for air-medium.
         ![image](https://github.com/user-attachments/assets/6198cb7d-8c38-47e3-ae06-4a654a639933)
