@@ -80,6 +80,9 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
 
     print(f"Folder '{folder_name}' has been created.")
     ```
+    You should see a message like this:
+    
+    `Folder 'EMIT-VF15A20AS100TSN-P-type' has been created.`
    
     ## Deep Learning SFID-classifier and experimental SFID-tags audio dataset 
     This mechanical decoding section will be updated after the paper's publication and acceptance in the journal. Please follow above instructon for encoding and     then place the encoded folders with audio dataset in the Audio-classfier repository available at https://github.com/seth814/Audio-Classification or https://github.com/danielsaatchi/Audio-Classification 
