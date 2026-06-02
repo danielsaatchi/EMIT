@@ -96,6 +96,6 @@ This work was partially supported by the Creative Research Initiative Program (2
 - The SFID-classifer is based on customized Audio-classfier developed by https://github.com/seth814/Audio-Classification.
 
 ##  Update Notes
-This work is getting updated chronically from dataset to advanced codes for optimization. For TPMS CAD/Simulations/3D printing on Comsol & Blender, please follo previous papers by authors published before in reputable journal with supporting informations. 
+This work is getting updated chronically from dataset to advanced codes for optimization. For TPMS CAD/Simulations/3D printing on Comsol & Blender, please follow previous papers by authors published before in reputable journal with supporting informations. 
 
 
