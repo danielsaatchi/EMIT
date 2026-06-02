@@ -66,7 +66,8 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
    
     ## Mechanical Encoding Algorithm to Generate Serial Numbers 
     encoder_SN.ipynb is provded in "/Audio Data" folder with EMIT_SN.json for SFID-classifer. Please find in appendix of supporting information in AFM paper.
-   '''
+
+    ```
    # Reading SN data from JSON file
     with open(json_file_path, 'r') as json_file:
     data = json.load(json_file)
@@ -78,7 +79,7 @@ The first electromagnetic radio frequency identification [(RFID)-tag](https://en
     os.makedirs(folder_name, exist_ok=True)
 
     print(f"Folder '{folder_name}' has been created.")
-   '''
+    ```
    
     ## Deep Learning SFID-classifier and experimental SFID-tags audio dataset 
     This mechanical decoding section will be updated after the paper's publication and acceptance in the journal. 
